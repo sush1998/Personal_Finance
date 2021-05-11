@@ -1,0 +1,36 @@
+nav
+{
+    color: white;
+}
+
+#balance
+{   width: 100px;
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    border-style: solid;
+    border-color: white;
+    height: 50px;
+}
+
+#btn_grp
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+body{
+    color: aquamarine;
+}
+
+.divider{
+    width:10px;
+    height:auto;
+    display:inline-block;
+}
+

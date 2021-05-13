@@ -2,7 +2,10 @@ nav
 {
     color: white;
 }
-
+#nav_title
+{
+    font-family: Impact, Charcoal, sans-serif;
+}
 #balance
 {   width: 100px;
     display: flex;
